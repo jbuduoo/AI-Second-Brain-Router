@@ -1,0 +1,5 @@
+專案名稱,別名 / 關鍵字,GitHub,Google Drive,本機位置,狀態,備註
+第二大腦,AI第二大腦,,<YOUR_SECOND_BRAIN_FOLDER_URL>,,使用中,第二大腦根目錄
+SampleProject,sample、demo,https://github.com/your-name/sample-project,https://drive.google.com/drive/folders/YOUR_PROJECT_FOLDER_ID,C:\Projects\sample-project,開發中,範例程式專案
+PersonalNotes,notes、knowledge,,https://drive.google.com/drive/folders/YOUR_NOTES_FOLDER_ID,,使用中,範例非程式專案
+ArchivedProject,archive,,https://drive.google.com/drive/folders/YOUR_ARCHIVE_FOLDER_ID,,封存,範例封存專案
